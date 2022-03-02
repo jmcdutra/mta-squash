@@ -1,7 +1,7 @@
 {
-  "name": "mtasa",
-  "version": "0.1.2",
-  "description": "mtasa",
+  "name": "mtasa-squash",
+  "version": "0.1.1",
+  "description": "mtasa sdk",
   "license": "MIT",
   "author": "4O4, Dutra",
   "keywords": [
